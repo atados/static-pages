@@ -1,0 +1,20 @@
+ html, body {
+      background: #0189bb;
+      text-align: center;
+      color: white;
+      font-family: "Noto Sans", sans-serif;
+    }
+    .logo-wrapper {
+      width: 330px;
+      margin: 60px auto 30px;
+    }
+    .logo {
+      padding-bottom: 43%;
+      background: url('https://i.imgur.com/XsU04eI.png') no-repeat center center / contain;
+    }
+    h2, h3 {
+      font-weight: 100;
+    }
+    h2 {
+      font-size: 36px;
+    }
